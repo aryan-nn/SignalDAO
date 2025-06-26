@@ -122,3 +122,10 @@ MIT License - see LICENSE file for details
 
 **Join the Revolution** 🚀  
 *Decentralizing Trading Intelligence, One Signal at a Time*
+
+## Contact address
+0xd9145CCE52D386f254917e481eB44e9943F39138
+
+## Transaction img
+![image](https://github.com/user-attachments/assets/069f98f5-ba07-46c8-8d29-5f991f8e5caa)
+
